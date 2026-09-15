@@ -45,7 +45,7 @@ l'intensité par percentile (1-99), propre à chaque image. Reprenable : relance
 même commande saute les fichiers déjà traités (voir `prep_log.csv` dans le dossier
 de sortie).
 
-## 2. Entraînement
+## 2. Entrainement
 
 ```bash
 python src/train.py \
